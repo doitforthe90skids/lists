@@ -1,4 +1,3 @@
-# Remote software
 Any Desk
 Team Viewer
 Ultraviewer
