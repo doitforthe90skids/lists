@@ -255,6 +255,10 @@
 127.0.0.1 www.textnow.com
 127.0.0.1 textnow.com
 127.0.0.1 voice.google.com
+127.0.0.1 www.sinch.com
+127.0.0.1 sinch.com
+127.0.0.1 www.magicjack.com
+127.0.0.1 magicjack.com
 #other
 127.0.0.1 www.protectedtext.com
 127.0.0.1 protectedtext.com
